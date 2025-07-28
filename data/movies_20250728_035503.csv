@@ -1,0 +1,73 @@
+title,year,rating,duration_minutes,metascore,actors,imdb_id,scraped_at
+The Shawshank Redemption,1994,9.3,142,82,Tim Robbins|Morgan Freeman|Bob Gunton,tt0111161,2025-07-28T09:45:55.217899
+The Godfather,1972,9.2,175,100,Marlon Brando|Al Pacino|James Caan,tt0068646,2025-07-28T09:46:05.798130
+The Dark Knight,2008,9.1,152,85,Christian Bale|Heath Ledger|Aaron Eckhart,tt0468569,2025-07-28T09:46:13.985243
+The Godfather Part II,1974,9.0,202,90,Al Pacino|Robert De Niro|Robert Duvall,tt0071562,2025-07-28T09:46:18.085152
+12 Angry Men,1957,9.0,96,97,Henry Fonda|Lee J. Cobb|Martin Balsam,tt0050083,2025-07-28T09:46:24.973180
+The Lord of the Rings: The Return of the King,2003,9.0,201,94,Elijah Wood|Viggo Mortensen|Ian McKellen,tt0167260,2025-07-28T09:46:34.244747
+Schindler's List,1993,9.0,195,95,Liam Neeson|Ralph Fiennes|Ben Kingsley,tt0108052,2025-07-28T09:46:40.077547
+Pulp Fiction,1994,8.8,154,95,John Travolta|Uma Thurman|Samuel L. Jackson,tt0110912,2025-07-28T09:46:46.437257
+The Lord of the Rings: The Fellowship of the Ring,2001,8.9,178,92,Elijah Wood|Ian McKellen|Orlando Bloom,tt0120737,2025-07-28T09:46:53.112631
+"The Good, the Bad and the Ugly",1966,8.8,178,90,Clint Eastwood|Eli Wallach|Lee Van Cleef,tt0060196,2025-07-28T09:46:57.940602
+Forrest Gump,1994,8.8,142,82,Tom Hanks|Robin Wright|Gary Sinise,tt0109830,2025-07-28T09:47:09.506926
+The Lord of the Rings: The Two Towers,2002,8.8,179,87,Elijah Wood|Ian McKellen|Viggo Mortensen,tt0167261,2025-07-28T09:47:15.253403
+Fight Club,1999,8.8,139,67,Brad Pitt|Edward Norton|Meat Loaf,tt0137523,2025-07-28T09:47:24.826210
+Goodfellas,1990,8.7,145,92,Robert De Niro|Ray Liotta|Joe Pesci,tt0099685,2025-07-28T09:47:30.490661
+Interstellar,2014,8.7,169,74,Matthew McConaughey|Anne Hathaway|Jessica Chastain,tt0816692,2025-07-28T09:47:36.289870
+One Flew Over the Cuckoo's Nest,1975,8.7,133,84,Jack Nicholson|Louise Fletcher|Michael Berryman,tt0073486,2025-07-28T09:47:46.769804
+Se7en,1995,8.6,127,65,Morgan Freeman|Brad Pitt|Kevin Spacey,tt0114369,2025-07-28T09:47:51.500946
+It's a Wonderful Life,1946,8.6,130,89,James Stewart|Donna Reed|Lionel Barrymore,tt0038650,2025-07-28T09:47:58.836848
+The Lord of the Rings: The Return of the King,2003,9.0,201,94,Elijah Wood|Viggo Mortensen|Ian McKellen,tt0167260,2025-07-28T09:48:03.796506
+The Lord of the Rings: The Fellowship of the Ring,2001,8.9,178,92,Elijah Wood|Ian McKellen|Orlando Bloom,tt0120737,2025-07-28T09:48:08.983630
+"The Good, the Bad and the Ugly",1966,8.8,178,90,Clint Eastwood|Eli Wallach|Lee Van Cleef,tt0060196,2025-07-28T09:48:19.679443
+The Lord of the Rings: The Two Towers,2002,8.8,179,87,Elijah Wood|Ian McKellen|Viggo Mortensen,tt0167261,2025-07-28T09:48:24.262630
+Inception,2010,8.8,148,74,Leonardo DiCaprio|Joseph Gordon-Levitt|Elliot Page,tt1375666,2025-07-28T09:48:37.944383
+Star Wars: Episode V - The Empire Strikes Back,1980,8.7,124,82,Mark Hamill|Harrison Ford|Carrie Fisher,tt0080684,2025-07-28T09:48:44.263367
+Interstellar,2014,8.7,169,74,Matthew McConaughey|Anne Hathaway|Jessica Chastain,tt0816692,2025-07-28T09:48:59.495364
+Terminator 2: Judgment Day,1991,8.6,137,75,Arnold Schwarzenegger|Linda Hamilton|Edward Furlong,tt0103064,2025-07-28T09:49:06.347884
+Star Wars: Episode IV - A New Hope,1977,8.6,121,90,Mark Hamill|Harrison Ford|Carrie Fisher,tt0076759,2025-07-28T09:49:13.012610
+Back to the Future,1985,8.5,116,87,Michael J. Fox|Christopher Lloyd|Lea Thompson,tt0088763,2025-07-28T09:49:19.261250
+Spirited Away,2001,8.6,124,96,Daveigh Chase|Suzanne Pleshette|Miyu Irino,tt0245429,2025-07-28T09:49:24.321690
+Gladiator,2000,8.5,155,67,Russell Crowe|Joaquin Phoenix|Connie Nielsen,tt0172495,2025-07-28T09:49:34.048674
+The Lion King,1994,8.5,88,88,Matthew Broderick|Jeremy Irons|James Earl Jones,tt0110357,2025-07-28T09:49:40.707440
+Spider-Man: Across the Spider-Verse,2023,8.5,140,86,Shameik Moore|Hailee Steinfeld|Brian Tyree Henry,tt9362722,2025-07-28T09:49:46.483417
+WALLE,2008,8.4,98,95,Ben Burtt|Elissa Knight|Jeff Garlin,tt0910970,2025-07-28T09:49:56.570980
+Dune: Part Two,2024,8.5,166,79,Timothée Chalamet|Zendaya|Rebecca Ferguson,tt15239678,2025-07-28T09:50:02.676708
+Raiders of the Lost Ark,1981,8.4,115,86,Harrison Ford|Karen Allen|Paul Freeman,tt0082971,2025-07-28T09:50:12.809010
+Avengers: Infinity War,2018,8.4,149,68,Robert Downey Jr.|Chris Hemsworth|Mark Ruffalo,tt4154756,2025-07-28T09:50:19.043249
+The Dark Knight,2008,9.1,152,85,Christian Bale|Heath Ledger|Aaron Eckhart,tt0468569,2025-07-28T09:50:25.267647
+Fight Club,1999,8.8,139,67,Brad Pitt|Edward Norton|Meat Loaf,tt0137523,2025-07-28T09:50:31.713095
+Inception,2010,8.8,148,74,Leonardo DiCaprio|Joseph Gordon-Levitt|Elliot Page,tt1375666,2025-07-28T09:50:39.930530
+Se7en,1995,8.6,127,65,Morgan Freeman|Brad Pitt|Kevin Spacey,tt0114369,2025-07-28T09:50:53.972980
+The Silence of the Lambs,1991,8.6,118,86,Jodie Foster|Anthony Hopkins|Scott Glenn,tt0102926,2025-07-28T09:51:00.317429
+Parasite,2019,8.5,132,97,Song Kang-ho|Lee Sun-kyun|Cho Yeo-jeong,tt6751668,2025-07-28T09:51:05.743679
+Psycho,1960,8.5,109,97,Anthony Perkins|Janet Leigh|Vera Miles,tt0054215,2025-07-28T09:51:15.634572
+The Departed,2006,8.5,151,85,Leonardo DiCaprio|Matt Damon|Jack Nicholson,tt0407887,2025-07-28T09:51:21.416749
+The Prestige,2006,8.5,130,66,Christian Bale|Hugh Jackman|Scarlett Johansson,tt0482571,2025-07-28T09:51:31.729395
+Léon: The Professional,1994,8.5,110,64,Jean Reno|Gary Oldman|Natalie Portman,tt0110413,2025-07-28T09:51:36.652992
+The Usual Suspects,1995,8.5,106,76,Kevin Spacey|Gabriel Byrne|Chazz Palminteri,tt0114814,2025-07-28T09:51:44.677890
+Rear Window,1954,8.5,112,100,James Stewart|Grace Kelly|Wendell Corey,tt0047396,2025-07-28T09:51:55.305865
+Memento,2000,8.4,113,83,Guy Pearce|Carrie-Anne Moss|Joe Pantoliano,tt0209144,2025-07-28T09:52:02.712990
+The Lives of Others,2006,8.4,137,89,Ulrich Mühe|Martina Gedeck|Sebastian Koch,tt0405094,2025-07-28T09:52:12.291976
+Witness for the Prosecution,1957,8.4,116,76,Tyrone Power|Marlene Dietrich|Charles Laughton,tt0051201,2025-07-28T09:52:20.240633
+Aliens,1986,8.4,137,84,Sigourney Weaver|Michael Biehn|Carrie Henn,tt0090605,2025-07-28T09:52:26.933938
+The Dark Knight Rises,2012,8.4,164,78,Christian Bale|Tom Hardy|Anne Hathaway,tt1345836,2025-07-28T09:52:33.659151
+Oldboy,2003,8.3,120,78,Choi Min-sik|Yoo Ji-tae|Kang Hye-jeong,tt0364569,2025-07-28T09:52:42.319451
+The Godfather,1972,9.2,175,100,Marlon Brando|Al Pacino|James Caan,tt0068646,2025-07-28T09:52:48.633988
+The Dark Knight,2008,9.1,152,85,Christian Bale|Heath Ledger|Aaron Eckhart,tt0468569,2025-07-28T09:52:57.045408
+The Godfather Part II,1974,9.0,202,90,Al Pacino|Robert De Niro|Robert Duvall,tt0071562,2025-07-28T09:53:05.683608
+12 Angry Men,1957,9.0,96,97,Henry Fonda|Lee J. Cobb|Martin Balsam,tt0050083,2025-07-28T09:53:12.726019
+Pulp Fiction,1994,8.8,154,95,John Travolta|Uma Thurman|Samuel L. Jackson,tt0110912,2025-07-28T09:53:21.999481
+Fight Club,1999,8.8,139,67,Brad Pitt|Edward Norton|Meat Loaf,tt0137523,2025-07-28T09:53:28.742610
+Goodfellas,1990,8.7,145,92,Robert De Niro|Ray Liotta|Joe Pesci,tt0099685,2025-07-28T09:53:37.211384
+Se7en,1995,8.6,127,65,Morgan Freeman|Brad Pitt|Kevin Spacey,tt0114369,2025-07-28T09:53:43.980020
+The Silence of the Lambs,1991,8.6,118,86,Jodie Foster|Anthony Hopkins|Scott Glenn,tt0102926,2025-07-28T09:53:55.117914
+The Green Mile,1999,8.6,189,61,Tom Hanks|Michael Clarke Duncan|David Morse,tt0120689,2025-07-28T09:54:01.524276
+City of God,2002,8.6,130,79,Alexandre Rodrigues|Leandro Firmino|Matheus Nachtergaele,tt0317248,2025-07-28T09:54:10.680424
+The Departed,2006,8.5,151,85,Leonardo DiCaprio|Matt Damon|Jack Nicholson,tt0407887,2025-07-28T09:54:17.850134
+American History X,1998,8.5,119,62,Edward Norton|Edward Furlong|Beverly D'Angelo,tt0120586,2025-07-28T09:54:24.147338
+Léon: The Professional,1994,8.5,110,64,Jean Reno|Gary Oldman|Natalie Portman,tt0110413,2025-07-28T09:54:32.336189
+The Usual Suspects,1995,8.5,106,76,Kevin Spacey|Gabriel Byrne|Chazz Palminteri,tt0114814,2025-07-28T09:54:39.524769
+Witness for the Prosecution,1957,8.4,116,76,Tyrone Power|Marlene Dietrich|Charles Laughton,tt0051201,2025-07-28T09:54:49.486517
+The Dark Knight Rises,2012,8.4,164,78,Christian Bale|Tom Hardy|Anne Hathaway,tt1345836,2025-07-28T09:54:56.375252
+High and Low,1963,8.4,143,90,Toshirô Mifune|Yutaka Sada|Tatsuya Nakadai,tt0057565,2025-07-28T09:55:02.342621

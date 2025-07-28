@@ -1,0 +1,241 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>IMDB Scraper Metrics Dashboard</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .metric { background: #f0f0f0; padding: 15px; margin: 10px 0; border-radius: 5px; }
+        .success { color: green; }
+        .error { color: red; }
+        h1 { color: #333; }
+        pre { background: #f5f5f5; padding: 10px; overflow-x: auto; }
+    </style>
+</head>
+<body>
+    <h1>IMDB Scraper Metrics Dashboard</h1>
+    <div class="metric">
+        <h2>Scraping Summary</h2>
+        <pre>{
+  "movies_scraped": 72,
+  "errors_count": 0,
+  "duration_seconds": 595.356228,
+  "success_rate": 1.0,
+  "errors": []
+}</pre>
+    </div>
+    <div class="metric">
+        <h2>Scraper Performance</h2>
+        <pre>{
+  "scraper_type": "BeautifulSoup",
+  "movies_scraped": 72,
+  "errors_count": 0,
+  "success_rate": 1.0,
+  "config": {
+    "database_url": "postgresql+asyncpg://postgres:w6qaZ1Qk4rR7DQtyCD5TVQr48@172.17.0.1:5432/scraper",
+    "num_movies": 55,
+    "debug_mode": false,
+    "delay_between_requests": 1.0,
+    "max_retries": 3,
+    "timeout": 30,
+    "use_proxies": true,
+    "data_dir": "./data"
+  },
+  "proxy_stats": {
+    "status": "active",
+    "total_proxies": 3,
+    "total_requests": 76,
+    "failed_requests": 0,
+    "success_rate": 1.0,
+    "usage_by_country": {
+      "ar": 25,
+      "bo": 26,
+      "mx": 25
+    },
+    "last_10_ips": [
+      {
+        "timestamp": "2025-07-28T03:53:48.504118",
+        "proxy_id": "ar-7492",
+        "country": "ar",
+        "ip": "181.31.53.184",
+        "region": "ar",
+        "source": "ipify"
+      },
+      {
+        "timestamp": "2025-07-28T03:53:59.461012",
+        "proxy_id": "bo-4158",
+        "country": "bo",
+        "ip": "45.183.187.176",
+        "region": "bo",
+        "source": "ipify"
+      },
+      {
+        "timestamp": "2025-07-28T03:54:05.706874",
+        "proxy_id": "ar-7492",
+        "country": "ar",
+        "ip": "201.251.42.115",
+        "region": "ar",
+        "source": "ipify"
+      },
+      {
+        "timestamp": "2025-07-28T03:54:15.027179",
+        "proxy_id": "bo-4158",
+        "country": "bo",
+        "ip": "189.28.74.116",
+        "region": "bo",
+        "source": "ipify"
+      },
+      {
+        "timestamp": "2025-07-28T03:54:21.374108",
+        "proxy_id": "mx-7480",
+        "country": "mx",
+        "ip": "177.248.18.201",
+        "region": "mx",
+        "source": "ipify"
+      },
+      {
+        "timestamp": "2025-07-28T03:54:27.241452",
+        "proxy_id": "ar-7492",
+        "country": "ar",
+        "ip": "190.6.96.54",
+        "region": "ar",
+        "source": "ipify"
+      },
+      {
+        "timestamp": "2025-07-28T03:54:37.347346",
+        "proxy_id": "bo-4158",
+        "country": "bo",
+        "ip": "170.247.161.84",
+        "region": "bo",
+        "source": "ipify"
+      },
+      {
+        "timestamp": "2025-07-28T03:54:43.654599",
+        "proxy_id": "ar-7492",
+        "country": "ar",
+        "ip": "45.161.132.14",
+        "region": "ar",
+        "source": "ipify"
+      },
+      {
+        "timestamp": "2025-07-28T03:54:54.049095",
+        "proxy_id": "bo-4158",
+        "country": "bo",
+        "ip": "181.115.171.50",
+        "region": "bo",
+        "source": "ipify"
+      },
+      {
+        "timestamp": "2025-07-28T03:55:00.194002",
+        "proxy_id": "mx-7480",
+        "country": "mx",
+        "ip": "187.154.107.89",
+        "region": "mx",
+        "source": "ipify"
+      }
+    ],
+    "current_proxy": "mx-7480"
+  }
+}</pre>
+    </div>
+    <div class="metric">
+        <h2>Proxy Statistics</h2>
+        <pre>{
+  "status": "active",
+  "total_proxies": 3,
+  "total_requests": 76,
+  "failed_requests": 0,
+  "success_rate": 1.0,
+  "usage_by_country": {
+    "ar": 25,
+    "bo": 26,
+    "mx": 25
+  },
+  "last_10_ips": [
+    {
+      "timestamp": "2025-07-28T03:53:48.504118",
+      "proxy_id": "ar-7492",
+      "country": "ar",
+      "ip": "181.31.53.184",
+      "region": "ar",
+      "source": "ipify"
+    },
+    {
+      "timestamp": "2025-07-28T03:53:59.461012",
+      "proxy_id": "bo-4158",
+      "country": "bo",
+      "ip": "45.183.187.176",
+      "region": "bo",
+      "source": "ipify"
+    },
+    {
+      "timestamp": "2025-07-28T03:54:05.706874",
+      "proxy_id": "ar-7492",
+      "country": "ar",
+      "ip": "201.251.42.115",
+      "region": "ar",
+      "source": "ipify"
+    },
+    {
+      "timestamp": "2025-07-28T03:54:15.027179",
+      "proxy_id": "bo-4158",
+      "country": "bo",
+      "ip": "189.28.74.116",
+      "region": "bo",
+      "source": "ipify"
+    },
+    {
+      "timestamp": "2025-07-28T03:54:21.374108",
+      "proxy_id": "mx-7480",
+      "country": "mx",
+      "ip": "177.248.18.201",
+      "region": "mx",
+      "source": "ipify"
+    },
+    {
+      "timestamp": "2025-07-28T03:54:27.241452",
+      "proxy_id": "ar-7492",
+      "country": "ar",
+      "ip": "190.6.96.54",
+      "region": "ar",
+      "source": "ipify"
+    },
+    {
+      "timestamp": "2025-07-28T03:54:37.347346",
+      "proxy_id": "bo-4158",
+      "country": "bo",
+      "ip": "170.247.161.84",
+      "region": "bo",
+      "source": "ipify"
+    },
+    {
+      "timestamp": "2025-07-28T03:54:43.654599",
+      "proxy_id": "ar-7492",
+      "country": "ar",
+      "ip": "45.161.132.14",
+      "region": "ar",
+      "source": "ipify"
+    },
+    {
+      "timestamp": "2025-07-28T03:54:54.049095",
+      "proxy_id": "bo-4158",
+      "country": "bo",
+      "ip": "181.115.171.50",
+      "region": "bo",
+      "source": "ipify"
+    },
+    {
+      "timestamp": "2025-07-28T03:55:00.194002",
+      "proxy_id": "mx-7480",
+      "country": "mx",
+      "ip": "187.154.107.89",
+      "region": "mx",
+      "source": "ipify"
+    }
+  ],
+  "current_proxy": "mx-7480"
+}</pre>
+    </div>
+    <p>Generated at: 2025-07-28 03:55:03</p>
+</body>
+</html>

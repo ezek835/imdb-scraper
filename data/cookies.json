@@ -1,0 +1,13 @@
+{
+  "session-id": "000-0000000-0000000",
+  "session-id-time": "2082787201l",
+  "session-token": "example-token",
+  "csm-hit": "tb:example+b-example",
+  "ubid-main": "000-0000000-0000000",
+  "at-main": "example-at-main",
+  "sess-at-main": "example-sess",
+  "lc-main": "en_US",
+  "skin": "imdb",
+  "consumer-id": "imdb-consumer",
+  "ad-oo": "0"
+}

@@ -1,0 +1,1089 @@
+{
+  "metadata": {
+    "export_date": "2025-07-28T03:55:03.454066",
+    "total_movies": 72,
+    "version": "1.0.0"
+  },
+  "movies": [
+    {
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "rating": 9.3,
+      "duration_minutes": 142,
+      "metascore": 82,
+      "actors": [
+        "Tim Robbins",
+        "Morgan Freeman",
+        "Bob Gunton"
+      ],
+      "imdb_id": "tt0111161",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:45:55.217899"
+    },
+    {
+      "title": "The Godfather",
+      "year": 1972,
+      "rating": 9.2,
+      "duration_minutes": 175,
+      "metascore": 100,
+      "actors": [
+        "Marlon Brando",
+        "Al Pacino",
+        "James Caan"
+      ],
+      "imdb_id": "tt0068646",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:46:05.798130"
+    },
+    {
+      "title": "The Dark Knight",
+      "year": 2008,
+      "rating": 9.1,
+      "duration_minutes": 152,
+      "metascore": 85,
+      "actors": [
+        "Christian Bale",
+        "Heath Ledger",
+        "Aaron Eckhart"
+      ],
+      "imdb_id": "tt0468569",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:46:13.985243"
+    },
+    {
+      "title": "The Godfather Part II",
+      "year": 1974,
+      "rating": 9.0,
+      "duration_minutes": 202,
+      "metascore": 90,
+      "actors": [
+        "Al Pacino",
+        "Robert De Niro",
+        "Robert Duvall"
+      ],
+      "imdb_id": "tt0071562",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:46:18.085152"
+    },
+    {
+      "title": "12 Angry Men",
+      "year": 1957,
+      "rating": 9.0,
+      "duration_minutes": 96,
+      "metascore": 97,
+      "actors": [
+        "Henry Fonda",
+        "Lee J. Cobb",
+        "Martin Balsam"
+      ],
+      "imdb_id": "tt0050083",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:46:24.973180"
+    },
+    {
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "rating": 9.0,
+      "duration_minutes": 201,
+      "metascore": 94,
+      "actors": [
+        "Elijah Wood",
+        "Viggo Mortensen",
+        "Ian McKellen"
+      ],
+      "imdb_id": "tt0167260",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:46:34.244747"
+    },
+    {
+      "title": "Schindler's List",
+      "year": 1993,
+      "rating": 9.0,
+      "duration_minutes": 195,
+      "metascore": 95,
+      "actors": [
+        "Liam Neeson",
+        "Ralph Fiennes",
+        "Ben Kingsley"
+      ],
+      "imdb_id": "tt0108052",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:46:40.077547"
+    },
+    {
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "rating": 8.8,
+      "duration_minutes": 154,
+      "metascore": 95,
+      "actors": [
+        "John Travolta",
+        "Uma Thurman",
+        "Samuel L. Jackson"
+      ],
+      "imdb_id": "tt0110912",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:46:46.437257"
+    },
+    {
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "rating": 8.9,
+      "duration_minutes": 178,
+      "metascore": 92,
+      "actors": [
+        "Elijah Wood",
+        "Ian McKellen",
+        "Orlando Bloom"
+      ],
+      "imdb_id": "tt0120737",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:46:53.112631"
+    },
+    {
+      "title": "The Good, the Bad and the Ugly",
+      "year": 1966,
+      "rating": 8.8,
+      "duration_minutes": 178,
+      "metascore": 90,
+      "actors": [
+        "Clint Eastwood",
+        "Eli Wallach",
+        "Lee Van Cleef"
+      ],
+      "imdb_id": "tt0060196",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:46:57.940602"
+    },
+    {
+      "title": "Forrest Gump",
+      "year": 1994,
+      "rating": 8.8,
+      "duration_minutes": 142,
+      "metascore": 82,
+      "actors": [
+        "Tom Hanks",
+        "Robin Wright",
+        "Gary Sinise"
+      ],
+      "imdb_id": "tt0109830",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:47:09.506926"
+    },
+    {
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "rating": 8.8,
+      "duration_minutes": 179,
+      "metascore": 87,
+      "actors": [
+        "Elijah Wood",
+        "Ian McKellen",
+        "Viggo Mortensen"
+      ],
+      "imdb_id": "tt0167261",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:47:15.253403"
+    },
+    {
+      "title": "Fight Club",
+      "year": 1999,
+      "rating": 8.8,
+      "duration_minutes": 139,
+      "metascore": 67,
+      "actors": [
+        "Brad Pitt",
+        "Edward Norton",
+        "Meat Loaf"
+      ],
+      "imdb_id": "tt0137523",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:47:24.826210"
+    },
+    {
+      "title": "Goodfellas",
+      "year": 1990,
+      "rating": 8.7,
+      "duration_minutes": 145,
+      "metascore": 92,
+      "actors": [
+        "Robert De Niro",
+        "Ray Liotta",
+        "Joe Pesci"
+      ],
+      "imdb_id": "tt0099685",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:47:30.490661"
+    },
+    {
+      "title": "Interstellar",
+      "year": 2014,
+      "rating": 8.7,
+      "duration_minutes": 169,
+      "metascore": 74,
+      "actors": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Jessica Chastain"
+      ],
+      "imdb_id": "tt0816692",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:47:36.289870"
+    },
+    {
+      "title": "One Flew Over the Cuckoo's Nest",
+      "year": 1975,
+      "rating": 8.7,
+      "duration_minutes": 133,
+      "metascore": 84,
+      "actors": [
+        "Jack Nicholson",
+        "Louise Fletcher",
+        "Michael Berryman"
+      ],
+      "imdb_id": "tt0073486",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:47:46.769804"
+    },
+    {
+      "title": "Se7en",
+      "year": 1995,
+      "rating": 8.6,
+      "duration_minutes": 127,
+      "metascore": 65,
+      "actors": [
+        "Morgan Freeman",
+        "Brad Pitt",
+        "Kevin Spacey"
+      ],
+      "imdb_id": "tt0114369",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:47:51.500946"
+    },
+    {
+      "title": "It's a Wonderful Life",
+      "year": 1946,
+      "rating": 8.6,
+      "duration_minutes": 130,
+      "metascore": 89,
+      "actors": [
+        "James Stewart",
+        "Donna Reed",
+        "Lionel Barrymore"
+      ],
+      "imdb_id": "tt0038650",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:47:58.836848"
+    },
+    {
+      "title": "The Lord of the Rings: The Return of the King",
+      "year": 2003,
+      "rating": 9.0,
+      "duration_minutes": 201,
+      "metascore": 94,
+      "actors": [
+        "Elijah Wood",
+        "Viggo Mortensen",
+        "Ian McKellen"
+      ],
+      "imdb_id": "tt0167260",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:48:03.796506"
+    },
+    {
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "rating": 8.9,
+      "duration_minutes": 178,
+      "metascore": 92,
+      "actors": [
+        "Elijah Wood",
+        "Ian McKellen",
+        "Orlando Bloom"
+      ],
+      "imdb_id": "tt0120737",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:48:08.983630"
+    },
+    {
+      "title": "The Good, the Bad and the Ugly",
+      "year": 1966,
+      "rating": 8.8,
+      "duration_minutes": 178,
+      "metascore": 90,
+      "actors": [
+        "Clint Eastwood",
+        "Eli Wallach",
+        "Lee Van Cleef"
+      ],
+      "imdb_id": "tt0060196",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:48:19.679443"
+    },
+    {
+      "title": "The Lord of the Rings: The Two Towers",
+      "year": 2002,
+      "rating": 8.8,
+      "duration_minutes": 179,
+      "metascore": 87,
+      "actors": [
+        "Elijah Wood",
+        "Ian McKellen",
+        "Viggo Mortensen"
+      ],
+      "imdb_id": "tt0167261",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:48:24.262630"
+    },
+    {
+      "title": "Inception",
+      "year": 2010,
+      "rating": 8.8,
+      "duration_minutes": 148,
+      "metascore": 74,
+      "actors": [
+        "Leonardo DiCaprio",
+        "Joseph Gordon-Levitt",
+        "Elliot Page"
+      ],
+      "imdb_id": "tt1375666",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:48:37.944383"
+    },
+    {
+      "title": "Star Wars: Episode V - The Empire Strikes Back",
+      "year": 1980,
+      "rating": 8.7,
+      "duration_minutes": 124,
+      "metascore": 82,
+      "actors": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher"
+      ],
+      "imdb_id": "tt0080684",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:48:44.263367"
+    },
+    {
+      "title": "Interstellar",
+      "year": 2014,
+      "rating": 8.7,
+      "duration_minutes": 169,
+      "metascore": 74,
+      "actors": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Jessica Chastain"
+      ],
+      "imdb_id": "tt0816692",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:48:59.495364"
+    },
+    {
+      "title": "Terminator 2: Judgment Day",
+      "year": 1991,
+      "rating": 8.6,
+      "duration_minutes": 137,
+      "metascore": 75,
+      "actors": [
+        "Arnold Schwarzenegger",
+        "Linda Hamilton",
+        "Edward Furlong"
+      ],
+      "imdb_id": "tt0103064",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:49:06.347884"
+    },
+    {
+      "title": "Star Wars: Episode IV - A New Hope",
+      "year": 1977,
+      "rating": 8.6,
+      "duration_minutes": 121,
+      "metascore": 90,
+      "actors": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "Carrie Fisher"
+      ],
+      "imdb_id": "tt0076759",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:49:13.012610"
+    },
+    {
+      "title": "Back to the Future",
+      "year": 1985,
+      "rating": 8.5,
+      "duration_minutes": 116,
+      "metascore": 87,
+      "actors": [
+        "Michael J. Fox",
+        "Christopher Lloyd",
+        "Lea Thompson"
+      ],
+      "imdb_id": "tt0088763",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:49:19.261250"
+    },
+    {
+      "title": "Spirited Away",
+      "year": 2001,
+      "rating": 8.6,
+      "duration_minutes": 124,
+      "metascore": 96,
+      "actors": [
+        "Daveigh Chase",
+        "Suzanne Pleshette",
+        "Miyu Irino"
+      ],
+      "imdb_id": "tt0245429",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:49:24.321690"
+    },
+    {
+      "title": "Gladiator",
+      "year": 2000,
+      "rating": 8.5,
+      "duration_minutes": 155,
+      "metascore": 67,
+      "actors": [
+        "Russell Crowe",
+        "Joaquin Phoenix",
+        "Connie Nielsen"
+      ],
+      "imdb_id": "tt0172495",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:49:34.048674"
+    },
+    {
+      "title": "The Lion King",
+      "year": 1994,
+      "rating": 8.5,
+      "duration_minutes": 88,
+      "metascore": 88,
+      "actors": [
+        "Matthew Broderick",
+        "Jeremy Irons",
+        "James Earl Jones"
+      ],
+      "imdb_id": "tt0110357",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:49:40.707440"
+    },
+    {
+      "title": "Spider-Man: Across the Spider-Verse",
+      "year": 2023,
+      "rating": 8.5,
+      "duration_minutes": 140,
+      "metascore": 86,
+      "actors": [
+        "Shameik Moore",
+        "Hailee Steinfeld",
+        "Brian Tyree Henry"
+      ],
+      "imdb_id": "tt9362722",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:49:46.483417"
+    },
+    {
+      "title": "WALLE",
+      "year": 2008,
+      "rating": 8.4,
+      "duration_minutes": 98,
+      "metascore": 95,
+      "actors": [
+        "Ben Burtt",
+        "Elissa Knight",
+        "Jeff Garlin"
+      ],
+      "imdb_id": "tt0910970",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:49:56.570980"
+    },
+    {
+      "title": "Dune: Part Two",
+      "year": 2024,
+      "rating": 8.5,
+      "duration_minutes": 166,
+      "metascore": 79,
+      "actors": [
+        "Timothée Chalamet",
+        "Zendaya",
+        "Rebecca Ferguson"
+      ],
+      "imdb_id": "tt15239678",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:50:02.676708"
+    },
+    {
+      "title": "Raiders of the Lost Ark",
+      "year": 1981,
+      "rating": 8.4,
+      "duration_minutes": 115,
+      "metascore": 86,
+      "actors": [
+        "Harrison Ford",
+        "Karen Allen",
+        "Paul Freeman"
+      ],
+      "imdb_id": "tt0082971",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:50:12.809010"
+    },
+    {
+      "title": "Avengers: Infinity War",
+      "year": 2018,
+      "rating": 8.4,
+      "duration_minutes": 149,
+      "metascore": 68,
+      "actors": [
+        "Robert Downey Jr.",
+        "Chris Hemsworth",
+        "Mark Ruffalo"
+      ],
+      "imdb_id": "tt4154756",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:50:19.043249"
+    },
+    {
+      "title": "The Dark Knight",
+      "year": 2008,
+      "rating": 9.1,
+      "duration_minutes": 152,
+      "metascore": 85,
+      "actors": [
+        "Christian Bale",
+        "Heath Ledger",
+        "Aaron Eckhart"
+      ],
+      "imdb_id": "tt0468569",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:50:25.267647"
+    },
+    {
+      "title": "Fight Club",
+      "year": 1999,
+      "rating": 8.8,
+      "duration_minutes": 139,
+      "metascore": 67,
+      "actors": [
+        "Brad Pitt",
+        "Edward Norton",
+        "Meat Loaf"
+      ],
+      "imdb_id": "tt0137523",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:50:31.713095"
+    },
+    {
+      "title": "Inception",
+      "year": 2010,
+      "rating": 8.8,
+      "duration_minutes": 148,
+      "metascore": 74,
+      "actors": [
+        "Leonardo DiCaprio",
+        "Joseph Gordon-Levitt",
+        "Elliot Page"
+      ],
+      "imdb_id": "tt1375666",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:50:39.930530"
+    },
+    {
+      "title": "Se7en",
+      "year": 1995,
+      "rating": 8.6,
+      "duration_minutes": 127,
+      "metascore": 65,
+      "actors": [
+        "Morgan Freeman",
+        "Brad Pitt",
+        "Kevin Spacey"
+      ],
+      "imdb_id": "tt0114369",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:50:53.972980"
+    },
+    {
+      "title": "The Silence of the Lambs",
+      "year": 1991,
+      "rating": 8.6,
+      "duration_minutes": 118,
+      "metascore": 86,
+      "actors": [
+        "Jodie Foster",
+        "Anthony Hopkins",
+        "Scott Glenn"
+      ],
+      "imdb_id": "tt0102926",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:51:00.317429"
+    },
+    {
+      "title": "Parasite",
+      "year": 2019,
+      "rating": 8.5,
+      "duration_minutes": 132,
+      "metascore": 97,
+      "actors": [
+        "Song Kang-ho",
+        "Lee Sun-kyun",
+        "Cho Yeo-jeong"
+      ],
+      "imdb_id": "tt6751668",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:51:05.743679"
+    },
+    {
+      "title": "Psycho",
+      "year": 1960,
+      "rating": 8.5,
+      "duration_minutes": 109,
+      "metascore": 97,
+      "actors": [
+        "Anthony Perkins",
+        "Janet Leigh",
+        "Vera Miles"
+      ],
+      "imdb_id": "tt0054215",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:51:15.634572"
+    },
+    {
+      "title": "The Departed",
+      "year": 2006,
+      "rating": 8.5,
+      "duration_minutes": 151,
+      "metascore": 85,
+      "actors": [
+        "Leonardo DiCaprio",
+        "Matt Damon",
+        "Jack Nicholson"
+      ],
+      "imdb_id": "tt0407887",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:51:21.416749"
+    },
+    {
+      "title": "The Prestige",
+      "year": 2006,
+      "rating": 8.5,
+      "duration_minutes": 130,
+      "metascore": 66,
+      "actors": [
+        "Christian Bale",
+        "Hugh Jackman",
+        "Scarlett Johansson"
+      ],
+      "imdb_id": "tt0482571",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:51:31.729395"
+    },
+    {
+      "title": "Léon: The Professional",
+      "year": 1994,
+      "rating": 8.5,
+      "duration_minutes": 110,
+      "metascore": 64,
+      "actors": [
+        "Jean Reno",
+        "Gary Oldman",
+        "Natalie Portman"
+      ],
+      "imdb_id": "tt0110413",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:51:36.652992"
+    },
+    {
+      "title": "The Usual Suspects",
+      "year": 1995,
+      "rating": 8.5,
+      "duration_minutes": 106,
+      "metascore": 76,
+      "actors": [
+        "Kevin Spacey",
+        "Gabriel Byrne",
+        "Chazz Palminteri"
+      ],
+      "imdb_id": "tt0114814",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:51:44.677890"
+    },
+    {
+      "title": "Rear Window",
+      "year": 1954,
+      "rating": 8.5,
+      "duration_minutes": 112,
+      "metascore": 100,
+      "actors": [
+        "James Stewart",
+        "Grace Kelly",
+        "Wendell Corey"
+      ],
+      "imdb_id": "tt0047396",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:51:55.305865"
+    },
+    {
+      "title": "Memento",
+      "year": 2000,
+      "rating": 8.4,
+      "duration_minutes": 113,
+      "metascore": 83,
+      "actors": [
+        "Guy Pearce",
+        "Carrie-Anne Moss",
+        "Joe Pantoliano"
+      ],
+      "imdb_id": "tt0209144",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:52:02.712990"
+    },
+    {
+      "title": "The Lives of Others",
+      "year": 2006,
+      "rating": 8.4,
+      "duration_minutes": 137,
+      "metascore": 89,
+      "actors": [
+        "Ulrich Mühe",
+        "Martina Gedeck",
+        "Sebastian Koch"
+      ],
+      "imdb_id": "tt0405094",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:52:12.291976"
+    },
+    {
+      "title": "Witness for the Prosecution",
+      "year": 1957,
+      "rating": 8.4,
+      "duration_minutes": 116,
+      "metascore": 76,
+      "actors": [
+        "Tyrone Power",
+        "Marlene Dietrich",
+        "Charles Laughton"
+      ],
+      "imdb_id": "tt0051201",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:52:20.240633"
+    },
+    {
+      "title": "Aliens",
+      "year": 1986,
+      "rating": 8.4,
+      "duration_minutes": 137,
+      "metascore": 84,
+      "actors": [
+        "Sigourney Weaver",
+        "Michael Biehn",
+        "Carrie Henn"
+      ],
+      "imdb_id": "tt0090605",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:52:26.933938"
+    },
+    {
+      "title": "The Dark Knight Rises",
+      "year": 2012,
+      "rating": 8.4,
+      "duration_minutes": 164,
+      "metascore": 78,
+      "actors": [
+        "Christian Bale",
+        "Tom Hardy",
+        "Anne Hathaway"
+      ],
+      "imdb_id": "tt1345836",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:52:33.659151"
+    },
+    {
+      "title": "Oldboy",
+      "year": 2003,
+      "rating": 8.3,
+      "duration_minutes": 120,
+      "metascore": 78,
+      "actors": [
+        "Choi Min-sik",
+        "Yoo Ji-tae",
+        "Kang Hye-jeong"
+      ],
+      "imdb_id": "tt0364569",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:52:42.319451"
+    },
+    {
+      "title": "The Godfather",
+      "year": 1972,
+      "rating": 9.2,
+      "duration_minutes": 175,
+      "metascore": 100,
+      "actors": [
+        "Marlon Brando",
+        "Al Pacino",
+        "James Caan"
+      ],
+      "imdb_id": "tt0068646",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:52:48.633988"
+    },
+    {
+      "title": "The Dark Knight",
+      "year": 2008,
+      "rating": 9.1,
+      "duration_minutes": 152,
+      "metascore": 85,
+      "actors": [
+        "Christian Bale",
+        "Heath Ledger",
+        "Aaron Eckhart"
+      ],
+      "imdb_id": "tt0468569",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:52:57.045408"
+    },
+    {
+      "title": "The Godfather Part II",
+      "year": 1974,
+      "rating": 9.0,
+      "duration_minutes": 202,
+      "metascore": 90,
+      "actors": [
+        "Al Pacino",
+        "Robert De Niro",
+        "Robert Duvall"
+      ],
+      "imdb_id": "tt0071562",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:53:05.683608"
+    },
+    {
+      "title": "12 Angry Men",
+      "year": 1957,
+      "rating": 9.0,
+      "duration_minutes": 96,
+      "metascore": 97,
+      "actors": [
+        "Henry Fonda",
+        "Lee J. Cobb",
+        "Martin Balsam"
+      ],
+      "imdb_id": "tt0050083",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:53:12.726019"
+    },
+    {
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "rating": 8.8,
+      "duration_minutes": 154,
+      "metascore": 95,
+      "actors": [
+        "John Travolta",
+        "Uma Thurman",
+        "Samuel L. Jackson"
+      ],
+      "imdb_id": "tt0110912",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:53:21.999481"
+    },
+    {
+      "title": "Fight Club",
+      "year": 1999,
+      "rating": 8.8,
+      "duration_minutes": 139,
+      "metascore": 67,
+      "actors": [
+        "Brad Pitt",
+        "Edward Norton",
+        "Meat Loaf"
+      ],
+      "imdb_id": "tt0137523",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:53:28.742610"
+    },
+    {
+      "title": "Goodfellas",
+      "year": 1990,
+      "rating": 8.7,
+      "duration_minutes": 145,
+      "metascore": 92,
+      "actors": [
+        "Robert De Niro",
+        "Ray Liotta",
+        "Joe Pesci"
+      ],
+      "imdb_id": "tt0099685",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:53:37.211384"
+    },
+    {
+      "title": "Se7en",
+      "year": 1995,
+      "rating": 8.6,
+      "duration_minutes": 127,
+      "metascore": 65,
+      "actors": [
+        "Morgan Freeman",
+        "Brad Pitt",
+        "Kevin Spacey"
+      ],
+      "imdb_id": "tt0114369",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:53:43.980020"
+    },
+    {
+      "title": "The Silence of the Lambs",
+      "year": 1991,
+      "rating": 8.6,
+      "duration_minutes": 118,
+      "metascore": 86,
+      "actors": [
+        "Jodie Foster",
+        "Anthony Hopkins",
+        "Scott Glenn"
+      ],
+      "imdb_id": "tt0102926",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:53:55.117914"
+    },
+    {
+      "title": "The Green Mile",
+      "year": 1999,
+      "rating": 8.6,
+      "duration_minutes": 189,
+      "metascore": 61,
+      "actors": [
+        "Tom Hanks",
+        "Michael Clarke Duncan",
+        "David Morse"
+      ],
+      "imdb_id": "tt0120689",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:54:01.524276"
+    },
+    {
+      "title": "City of God",
+      "year": 2002,
+      "rating": 8.6,
+      "duration_minutes": 130,
+      "metascore": 79,
+      "actors": [
+        "Alexandre Rodrigues",
+        "Leandro Firmino",
+        "Matheus Nachtergaele"
+      ],
+      "imdb_id": "tt0317248",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:54:10.680424"
+    },
+    {
+      "title": "The Departed",
+      "year": 2006,
+      "rating": 8.5,
+      "duration_minutes": 151,
+      "metascore": 85,
+      "actors": [
+        "Leonardo DiCaprio",
+        "Matt Damon",
+        "Jack Nicholson"
+      ],
+      "imdb_id": "tt0407887",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:54:17.850134"
+    },
+    {
+      "title": "American History X",
+      "year": 1998,
+      "rating": 8.5,
+      "duration_minutes": 119,
+      "metascore": 62,
+      "actors": [
+        "Edward Norton",
+        "Edward Furlong",
+        "Beverly D'Angelo"
+      ],
+      "imdb_id": "tt0120586",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:54:24.147338"
+    },
+    {
+      "title": "Léon: The Professional",
+      "year": 1994,
+      "rating": 8.5,
+      "duration_minutes": 110,
+      "metascore": 64,
+      "actors": [
+        "Jean Reno",
+        "Gary Oldman",
+        "Natalie Portman"
+      ],
+      "imdb_id": "tt0110413",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:54:32.336189"
+    },
+    {
+      "title": "The Usual Suspects",
+      "year": 1995,
+      "rating": 8.5,
+      "duration_minutes": 106,
+      "metascore": 76,
+      "actors": [
+        "Kevin Spacey",
+        "Gabriel Byrne",
+        "Chazz Palminteri"
+      ],
+      "imdb_id": "tt0114814",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:54:39.524769"
+    },
+    {
+      "title": "Witness for the Prosecution",
+      "year": 1957,
+      "rating": 8.4,
+      "duration_minutes": 116,
+      "metascore": 76,
+      "actors": [
+        "Tyrone Power",
+        "Marlene Dietrich",
+        "Charles Laughton"
+      ],
+      "imdb_id": "tt0051201",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:54:49.486517"
+    },
+    {
+      "title": "The Dark Knight Rises",
+      "year": 2012,
+      "rating": 8.4,
+      "duration_minutes": 164,
+      "metascore": 78,
+      "actors": [
+        "Christian Bale",
+        "Tom Hardy",
+        "Anne Hathaway"
+      ],
+      "imdb_id": "tt1345836",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:54:56.375252"
+    },
+    {
+      "title": "High and Low",
+      "year": 1963,
+      "rating": 8.4,
+      "duration_minutes": 143,
+      "metascore": 90,
+      "actors": [
+        "Toshirô Mifune",
+        "Yutaka Sada",
+        "Tatsuya Nakadai"
+      ],
+      "imdb_id": "tt0057565",
+      "quality_score": 1.0,
+      "scraped_at": "2025-07-28T09:55:02.342621"
+    }
+  ]
+}
